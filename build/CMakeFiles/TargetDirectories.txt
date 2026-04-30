@@ -1,0 +1,5 @@
+E:/Roblox-Client/MCATool-Docs/MCATool/build/CMakeFiles/mcatool_core.dir
+E:/Roblox-Client/MCATool-Docs/MCATool/build/CMakeFiles/mcatool.dir
+E:/Roblox-Client/MCATool-Docs/MCATool/build/CMakeFiles/INSTALL.dir
+E:/Roblox-Client/MCATool-Docs/MCATool/build/CMakeFiles/ALL_BUILD.dir
+E:/Roblox-Client/MCATool-Docs/MCATool/build/CMakeFiles/ZERO_CHECK.dir

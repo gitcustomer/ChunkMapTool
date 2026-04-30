@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Roblox-Client\MCATool-Docs\MCATool\src\Core\McaFileLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Roblox-Client\MCATool-Docs\MCATool\src\Core\NbtParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Roblox-Client\MCATool-Docs\MCATool\src\Core\ChunkDecoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Roblox-Client\MCATool-Docs\MCATool\src\Utils\Compression.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\Roblox-Client\MCATool-Docs\MCATool\include\Core\DataStructures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Roblox-Client\MCATool-Docs\MCATool\include\Core\McaFileLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Roblox-Client\MCATool-Docs\MCATool\include\Core\NbtParser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Roblox-Client\MCATool-Docs\MCATool\include\Core\ChunkDecoder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Roblox-Client\MCATool-Docs\MCATool\include\Utils\Compression.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\Roblox-Client\MCATool-Docs\MCATool\include\Utils\Logger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Roblox-Client\MCATool-Docs\MCATool\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FFF8727E-0DE3-3B8A-A54C-32FDA58BFA14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CE214F0F-6C7C-3595-B40D-33E661B5986E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

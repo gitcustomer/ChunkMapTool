@@ -1,0 +1,5 @@
+E:\MCATool\MCATool\src\Core\McaFileLoader.cpp;E:\MCATool\MCATool\cmake-build-debug\mcatool_core.dir\Release\McaFileLoader.obj
+E:\MCATool\MCATool\src\Core\NbtParser.cpp;E:\MCATool\MCATool\cmake-build-debug\mcatool_core.dir\Release\NbtParser.obj
+E:\MCATool\MCATool\src\Core\ChunkDecoder.cpp;E:\MCATool\MCATool\cmake-build-debug\mcatool_core.dir\Release\ChunkDecoder.obj
+E:\MCATool\MCATool\src\Utils\Compression.cpp;E:\MCATool\MCATool\cmake-build-debug\mcatool_core.dir\Release\Compression.obj
+E:\MCATool\MCATool\src\Utils\TextureLoader.cpp;E:\MCATool\MCATool\cmake-build-debug\mcatool_core.dir\Release\TextureLoader.obj

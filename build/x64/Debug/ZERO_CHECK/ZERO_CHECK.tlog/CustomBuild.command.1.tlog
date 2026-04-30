@@ -1,0 +1,10 @@
+^E:\ROBLOX-CLIENT\MCATOOL-DOCS\MCATOOL\BUILD\CMAKEFILES\F68CD06657C937CE160FBB91D9DE16CF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/Roblox-Client/MCATool-Docs/MCATool -BE:/Roblox-Client/MCATool-Docs/MCATool/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/Roblox-Client/MCATool-Docs/MCATool/build/MCATool.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
